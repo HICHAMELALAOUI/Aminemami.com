@@ -1597,3 +1597,11 @@ a.play-btn span {
 .comment-form .comment-notes {
   margin-bottom: 25px;
 }
+@media (min-width: 800px) {
+  .contact-form {
+    font-size: 30px;
+  }
+}
+.contact-form a {
+  color: #7fc540;
+}
