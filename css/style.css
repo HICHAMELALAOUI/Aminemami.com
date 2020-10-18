@@ -1610,4 +1610,7 @@ a.play-btn span {
   iframe {
     width: 100%;
   }
+  .get-appointment {
+    background-position: -166px -47px;
+  }
 }
